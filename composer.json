@@ -25,7 +25,6 @@
     "include-path": [
         "./"
     ],
-    "license": "BSD",
     "name": "tyrellsys/net_pop3",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Net_POP3",
