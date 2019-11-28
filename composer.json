@@ -33,6 +33,7 @@
     },
     "type": "library",
     "require": {
+        "php": ">=5.6",
         "pear/pear_exception": "*",
         "pear/net_socket": "*"
     },
